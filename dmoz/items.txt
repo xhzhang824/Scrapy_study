@@ -1,0 +1,35 @@
+{'author': u'孔天逸',
+ 'content': u'本贴是论坛每日签到系统在每天的第一位签到者签到时所自动生成的,如果您还未签到,请点此进行签到的操作.我在2016-09-0700:02完成签到,是今天第一个签到的用户,获得随机奖励金钱20,另外我还额外获得了金钱10.我今天最想说:「论坛迎来了新的一天！」.',
+ 'post_time': u'2016-9-7 00:02:25',
+ 'title': u'2016年9月7日签到记录贴',
+ 'url': 'http://www.heartsong.top/forum.php?mod=viewthread&tid=8'}
+{'author': u'文博他爸爸',
+ 'content': u'我在2016-09-0700:30完成签到,是今天第2个签到的用户,获得随机奖励金钱10,另外我还额外获得了金钱9我今天最想说:「卧槽，不能全为数字」.',
+ 'post_time': u'2016-9-7 00:30:39',
+ 'title': u'2016年9月7日签到记录贴',
+ 'url': 'http://www.heartsong.top/forum.php?mod=viewthread&tid=8'}
+{'author': u'Jeremy',
+ 'content': u'我在2016-09-0714:00完成签到,是今天第3个签到的用户,获得随机奖励金钱9,另外我还额外获得了金钱8我今天最想说:「我是孔威爸爸」.',
+ 'post_time': u'2016-9-7 14:00:42',
+ 'title': u'2016年9月7日签到记录贴',
+ 'url': 'http://www.heartsong.top/forum.php?mod=viewthread&tid=8'}
+{'author': u'是二狗',
+ 'content': u'我在2016-09-0720:51完成签到,是今天第4个签到的用户,获得随机奖励金钱8,另外我还额外获得了金钱7我今天最想说:「9月向我扣响了扳机」.',
+ 'post_time': u'2016-9-7 20:51:03',
+ 'title': u'2016年9月7日签到记录贴',
+ 'url': 'http://www.heartsong.top/forum.php?mod=viewthread&tid=8'}
+{'author': u'肃介之峰',
+ 'content': u'我在2016-09-0720:53完成签到,是今天第5个签到的用户,获得随机奖励金钱6,另外我还额外获得了金钱6我今天最想说:「真鸡巴事多」.',
+ 'post_time': u'2016-9-7 20:53:10',
+ 'title': u'2016年9月7日签到记录贴',
+ 'url': 'http://www.heartsong.top/forum.php?mod=viewthread&tid=8'}
+{'author': u'美好世界',
+ 'content': u'我在2016-09-0721:15完成签到,是今天第6个签到的用户,获得随机奖励金钱10,另外我还额外获得了金钱5我今天最想说:「发现新世界喽」.',
+ 'post_time': u'2016-9-7 21:15:04',
+ 'title': u'2016年9月7日签到记录贴',
+ 'url': 'http://www.heartsong.top/forum.php?mod=viewthread&tid=8'}
+{'author': u'秋教官',
+ 'content': u'我在2016-09-0721:18完成签到,是今天第7个签到的用户,获得随机奖励金钱8,另外我还额外获得了金钱4我今天最想说:「今天不孬，过两天收拾大一去」.',
+ 'post_time': u'2016-9-7 21:18:20',
+ 'title': u'2016年9月7日签到记录贴',
+ 'url': 'http://www.heartsong.top/forum.php?mod=viewthread&tid=8'}

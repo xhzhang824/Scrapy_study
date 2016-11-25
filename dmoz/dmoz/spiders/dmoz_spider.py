@@ -30,4 +30,16 @@ class DmozSpider(BaseSpider):
             # 把内容中的换行符，空格等去掉
             item['content'] = content.replace('\r\n', '').replace(' ', '').replace('\n', '')
             print "I am a test  point"
+
+            file = open("items.txt", "a")  # 以追加的方式打开文件，不存在则创建
+            # 因为item中的数据是unicode编码的，为了在控制台中查看数据的有效性和保存，
+             # 将其编码改为utf-8
+            item_string = str(item).decode("unicode_escape").encode('utf-8')
+            file.write(item_string)
+            file.write('\n')
+            file.close()
+            print item_string  # 在控制台输出
+            #return item  # 会在控制台输出原item数据，可以选择不写
+
+
             yield item  # 将创建并赋值好的Item对象传递到PipeLine当中进行处理
