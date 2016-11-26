@@ -6,6 +6,7 @@
         <list>
           <option value="tutorial.tutorial.spiders.dmoz_spider.*" />
           <option value="dmoz.dmoz.spiders.dmoz_spider.dmoz" />
+          <option value="spiderone.spiderone.spiders.My_Spider.aiting" />
         </list>
       </option>
     </inspection_tool>
